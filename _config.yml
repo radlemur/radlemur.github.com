@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://radlemur.com
+title: Rad Lemur
+subtitle: Mobile Game Development.
+author: Rad Lemur
 simple_search: http://google.com/search
 description:
 
