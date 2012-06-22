@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://radlemur.github.com/atom.xml" rel="self"/>
-  <link href="http://radlemur.github.com/"/>
-  <updated>2012-06-22T11:04:05-06:00</updated>
-  <id>http://radlemur.github.com/</id>
+  <title><![CDATA[Rad Lemur]]></title>
+  <link href="http://radlemur.com/atom.xml" rel="self"/>
+  <link href="http://radlemur.com/"/>
+  <updated>2012-06-22T11:36:37-06:00</updated>
+  <id>http://radlemur.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Rad Lemur]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
