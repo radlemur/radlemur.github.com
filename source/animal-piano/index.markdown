@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Animal Piano"
+title: "Kids Animal Piano"
 comments: false
 sharing: false
 footer: true
