@@ -1,30 +1,17 @@
 ---
-layout: default
+layout: page
+comments: false
+sharing: false
+footer: true
 ---
 
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
-</div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
+<h3> What We Do</h3>
 
-<br>
+We make mobile games targeting young kids and toddlers.<br>
+
+Check out our games:<br/>
+
+<a href="https://play.google.com/store/apps/developer?id=Rad+Lemur+Kids+Games"><img style="border:0;" src="/images/appstores/google_play_badge.png" /></a>
+<a href="http://itunes.apple.com/my/artist/rad-lemur/id538918960" target="itunes_store"><img src="/images/appstores/appstore_badge.png" style="border: 0;"/></a>
+<a href="http://www.amazon.com/gp/mas/dl/android?p=com.androidcave.animalpiano.pro&showAll=1"><img src="/images/appstores/amazon_badge.png" style="border: 0;"/></a>
+<a href="http://www.barnesandnoble.com/c/rad-lemur"><img src="/images/appstores/nook_badge.png" style="border: 0;"/></a>
