@@ -27,7 +27,4 @@ layout: default
   {% endif %}
 </aside>
 
-<h3>UNDER CONSTRUCTION!</h3>
 <br>
-
-<a href="https://play.google.com/store/apps/developer?id=Rad+Lemur">Games on Google Play <br/> <br/>  <img style="vertical-align:middle;" src="/images/get_it_on_play_logo_large.png" /></a>
