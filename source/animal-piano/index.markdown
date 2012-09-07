@@ -4,10 +4,10 @@ comments: false
 sharing: false
 footer: true
 ---
-## <img src="/images/animal_piano/icon_512.png" style="height:80px; border:0px; vertical-align:middle"> Kids Animal Piano</img> <img src="/images/animal_piano/IMG_0042.png" style="height:180px; border:0px; float:right;" />
+<h2 style="padding-top:0px;"> <img src="/images/animal_piano/icon_512.png" style="height:80px; border:0px; vertical-align:middle"> Kids Animal Piano</img> <img src="/images/animal_piano/IMG_0042.png" style="height:180px; border:0px; float:right; margin-top:10px;" /></h2>
 
 
-### Accolades
+### Achievements and Awards
 
 
 - 4.5/5 stars out of 7000+ reviews on <a href="https://play.google.com/store/apps/details?id=com.androidcave.animalpiano.free">Google Play</a>
