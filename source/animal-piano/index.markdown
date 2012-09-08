@@ -4,7 +4,7 @@ comments: false
 sharing: false
 footer: true
 ---
-<h2 style="padding-top:0px;"> <img src="/images/animal_piano/icon_512.png" style="height:80px; border:0px; vertical-align:middle"> Kids Animal Piano</img> <img src="/images/animal_piano/IMG_0042.png" style="height:180px; border:0px; float:right; margin-top:10px;" /></h2>
+<h2 style="padding-top:0px;"> <img src="/images/icons/animal_piano_icon_80.png" style="height:80px; border:0px; vertical-align:middle"> Kids Animal Piano</img> <img src="/images/icons/animal_piano_screen_180.png" style="height:180px; border:0px; float:right; margin-top:10px;" /></h2>
 
 
 ### Achievements and Awards
