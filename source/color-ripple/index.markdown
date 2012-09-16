@@ -9,5 +9,6 @@ footer: true
 Tap the screen to unleash new colorful ripples. An interactive experience for your toddler. Now with music and multi-touch!
 
 <a href="https://play.google.com/store/apps/details?id=com.androidcave.colorripple"><img style="border:0;margin:5px;margin:5px;" src="/images/appstores/google_play_badge.png" /></a>
+<a href="http://itunes.apple.com/app/kids-animal-piano/id538918957?mt=8" target="itunes_store"><img src="/images/appstores/appstore_badge.png" style="border:0;margin:5px;"/></a>
 <a href="http://www.amazon.com/gp/product/B008JS6RFC"><img src="/images/appstores/amazon_badge.png" style="border:0;margin:5px;"/></a>
 <a href="http://www.barnesandnoble.com/w/color-ripple-for-toddlers-rad-lemur/1112166628"><img src="/images/appstores/nook_badge.png" style="border:0;margin:5px;"/></a>

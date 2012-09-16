@@ -10,7 +10,7 @@ footer: true
 ### Achievements and Awards
 
 
-- 4.5/5 stars out of 7000+ reviews on <a href="https://play.google.com/store/apps/details?id=com.androidcave.animalpiano.free">Google Play</a>
+- 4.5/5 stars out of 8000+ reviews on <a href="https://play.google.com/store/apps/details?id=com.androidcave.animalpiano.free">Google Play</a>
 - Top 20 kids app on <a href="http://www.amazon.com/gp/product/B00866UOY2">Amazon Appstore for Android</a>
 - 4.5/5 stars out of 300+ reviews on <a href="http://www.amazon.com/gp/product/B00866UOY2">Amazon Appstore for Android</a>
 - Preloaded on the <a href="http://www.nabitablet.com/support/article/what-apps-come-preloaded-nabi-2">Nabi 2 kids tablet</a> (with other apps like Angry Birds, Doodle Jump)
