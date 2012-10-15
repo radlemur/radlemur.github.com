@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://radlemur.com/animal-piano/</loc>
-        <lastmod>2012-10-05T12:32:15-06:00</lastmod>
+        <lastmod>2012-10-15T16:47:12-06:00</lastmod>
     </url>
     <url>
         <loc>http://radlemur.com/blog/archives/</loc>
@@ -23,6 +23,10 @@
     <url>
         <loc>http://radlemur.com/escape-the-bee/</loc>
         <lastmod>2012-09-08T11:36:03-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://radlemur.com/halloween-piano/</loc>
+        <lastmod>2012-10-15T16:43:43-06:00</lastmod>
     </url>
     <url>
         <loc>http://radlemur.com/</loc>
