@@ -12,8 +12,10 @@ footer: true
 
 - 4.5/5 stars out of 11,000+ reviews on <a href="https://play.google.com/store/apps/details?id=com.androidcave.animalpiano.free">Google Play</a>
 - Top 20 kids app on <a href="http://www.amazon.com/gp/product/B00866UOY2">Amazon Appstore for Android</a>
+- Amazon Free App of the Day on Oct 18th, 2012
 - 4.5/5 stars out of 400+ reviews on <a href="http://www.amazon.com/gp/product/B00866UOY2">Amazon Appstore for Android</a>
 - Preloaded on the <a href="http://www.nabitablet.com/support/article/what-apps-come-preloaded-nabi-2">Nabi 2 kids tablet</a> (alongside Angry Birds, Doodle Jump)
+- Preloaded on the <a href="http://www.ematic.us/tablets/funtab-pro#tabset-tab-3">Ematic FunTab Pro kids tablet</a> (alongside Angry Birds, Fruit Ninja, Cut the Rope)
 - 5/5 stars and APProved badge from <a href="http://www.famigo.com/app/kids-animal-piano-free/">Famigo</a>
 - Featured in "What's New on Nook" and "Top Picks in Apps" on <a href="http://www.barnesandnoble.com/w/kids-animal-piano-rad-lemur/1112133691">Nook Apps</a>
 - Top 10 best Android games for kids on <a href="http://techland.time.com/2012/08/15/the-10-best-android-games-for-kids/">Time.com</a> (alongside Fruit Ninja, Where's My Water, Cut the Rope)
