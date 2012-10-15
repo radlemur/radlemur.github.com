@@ -17,7 +17,7 @@ footer: true
 - 5/5 stars and APProved badge from <a href="http://www.famigo.com/app/kids-animal-piano-free/">Famigo</a>
 - Featured in "What's New on Nook" and "Top Picks in Apps" on <a href="http://www.barnesandnoble.com/w/kids-animal-piano-rad-lemur/1112133691">Nook Apps</a>
 - Top 10 best Android games for kids on <a href="http://techland.time.com/2012/08/15/the-10-best-android-games-for-kids/">Time.com</a> (alongside Fruit Ninja, Where's My Water, Cut the Rope)
-- Top 10 Apps & Games for preschool kids on <a href="http://androidandme.com/thread/top-10-apps-games-for-preschool-age-kids/">androidandme</a> (alongside like Kinectimals and The Cat in the Hat)
+- Top 10 Apps & Games for preschool kids on <a href="http://androidandme.com/thread/top-10-apps-games-for-preschool-age-kids/">androidandme</a> (alongside Kinectimals and The Cat in the Hat)
 
 
 ### Details
