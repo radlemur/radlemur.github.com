@@ -18,4 +18,4 @@ This game comes preloaded with more than 10 songs, including the grim Funeral Ma
 
 
 
-Coming soon to an appstore near you!
+<a href="https://play.google.com/store/apps/details?id=com.radlemur.halloweenpiano.free"><img style="border:0;margin:5px;margin:5px;" src="/images/appstores/google_play_badge.png" /></a>
