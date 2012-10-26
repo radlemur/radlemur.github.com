@@ -19,3 +19,5 @@ This game comes preloaded with more than 10 songs, including the grim Funeral Ma
 
 
 <a href="https://play.google.com/store/apps/details?id=com.radlemur.halloweenpiano.free"><img style="border:0;margin:5px;margin:5px;" src="/images/appstores/google_play_badge.png" /></a>
+<a href="http://www.amazon.com/gp/product/B009TAIQ80"><img src="/images/appstores/amazon_badge.png" style="border:0;margin:5px;"/></a>
+<a href="http://www.barnesandnoble.com/w/kids-animal-piano-rad-lemur/1113612978"><img src="/images/appstores/nook_badge.png" style="border:0;margin:5px;"/></a>
