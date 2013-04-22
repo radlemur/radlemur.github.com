@@ -10,10 +10,11 @@ footer: true
 ### Achievements and Awards
 
 
-- 4.5/5 stars out of 12,000+ reviews on <a href="https://play.google.com/store/apps/details?id=com.androidcave.animalpiano.free">Google Play</a>
+- Reached #1 on Google Play's Education category in the US and Canada
+- 4.5/5 stars out of 45,000+ reviews on <a href="https://play.google.com/store/apps/details?id=com.androidcave.animalpiano.free">Google Play</a>
 - Top 20 kids app on <a href="http://www.amazon.com/gp/product/B00866UOY2">Amazon Appstore for Android</a>
-- Amazon Free App of the Day on Oct 18th, 2012
-- 4.5/5 stars out of 400+ reviews on <a href="http://www.amazon.com/gp/product/B00866UOY2">Amazon Appstore for Android</a>
+- Amazon Free App of the Day on Oct 18th, 2012 in the US and on Apr 15th, 2013 in Japan
+- 4.5/5 stars out of 700+ reviews on <a href="http://www.amazon.com/gp/product/B00866UOY2">Amazon Appstore for Android</a>
 - Preloaded on the <a href="http://www.nabitablet.com/support/article/what-apps-come-preloaded-nabi-2">Nabi 2 kids tablet</a> (alongside Angry Birds, Doodle Jump)
 - Preloaded on the <a href="http://www.ematic.us/tablets/funtab-pro#tabset-tab-3">Ematic FunTab Pro kids tablet</a> (alongside Angry Birds, Fruit Ninja, Cut the Rope)
 - 5/5 stars and APProved badge from <a href="http://www.famigo.com/app/kids-animal-piano-free/">Famigo</a>
